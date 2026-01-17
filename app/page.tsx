@@ -140,7 +140,7 @@ export default function Home() {
 </section>
       {/* Footer */}
       <footer className="border-t">
-        <div className="mx-auto max-w-5xl px-4 py-8 text-sm text-slate-600">
+        <div className="mx-auto max-w-5xl px-4 py-8 text-sm text-slate-600 text-center">
           © {new Date().getFullYear()} Duo Ribbon
         </div>
       </footer>
